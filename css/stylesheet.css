@@ -761,6 +761,10 @@ ul {
     .section-a .bottom .image {
         margin-bottom: 30px;
     }
+    .section-a .bottom h3 {
+    min-height: 60px;
+    }
+    
     /* section-d */
     .section-d h2 {
         font-size: 25px;
